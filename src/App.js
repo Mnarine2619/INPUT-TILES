@@ -2,6 +2,10 @@ import React, {Component} from 'react';
 import './App.css';
 import TextInput from './Components/TextInput';
 import DateInput from './Components/DateInput';
+import NumberInput from './Components/NumberInput';
+import ButtonInput from './Components/ButtonInput';
+import RadioInput from './Components/RadioInput';
+import ColorInput from './Components/ColorInput';
 
 class App extends Component  {
   render() {
